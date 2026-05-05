@@ -1,6 +1,6 @@
 # Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
 
-client_id = "818d0068c06a69d50f32eeb4990d4ade"
+client_id = "9523651d47fc3fb3b536ddc5c37f87d6"
 application_url = "https://example.com"
 embedded = true
 name = "SKU Barcode Guard Lite"
